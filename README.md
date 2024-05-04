@@ -1,21 +1,13 @@
 # Task Manager with PHP and MySQL
 Simple Task Manager web app with PHP and MySQL.
 
-[Complete TASK MANAGER Tutorial Playlist](https://www.youtube.com/watch?v=1rl36zxqZZw&list=PLBLPjjQlnVXXygeLVmd9mGNtgrHaBOFos)
 
 
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
+1. Add a Star 🌟  to this 👆 Repository
 
-## Donate
 
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
 
 
 ## Technologies Used
