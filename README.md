@@ -68,7 +68,5 @@ define('SITEURL', 'http://localhost/task-manager/'); //Update the home URL of th
 1. Email - hi@vijaythapa.com
 
 ## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa/ "Vijay Thapa on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram/vijaythapa.code/ "Vijay Thapa on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/thevijaythapa/ "Vijay Thapa on Facebook")
-5. Twitter - [@thevijaythapa](https://www.twitter.com/thevijaythapa "Vijay Thapa on Twitter")
+1. Instagram - [@ou6.5](https://www.instagram/ou6.5")
+
