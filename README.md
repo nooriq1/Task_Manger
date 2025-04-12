@@ -64,8 +64,6 @@ define('SITEURL', 'http://localhost/task-manager/'); //Update the home URL of th
 
 6. Now, Open the project in your browser. It should run perfectly.
 
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
 
 ## Follow Me on
 1. Instagram - [@ou6.5](https://www.instagram/ou6.5")
